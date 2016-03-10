@@ -220,7 +220,6 @@ function create_config( )
     "set",
     "get",
     "broadcast",
-    "invite",
     "all",
     "leave_ban",
     "block_user",
